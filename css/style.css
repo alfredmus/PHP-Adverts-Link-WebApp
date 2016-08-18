@@ -1,0 +1,62 @@
+body{
+     background-image:url(../img/emal.jpg);    
+	 opacity:1;
+	 margin-top:20px;
+	 margin-bottom:130px;
+
+}
+.navbar{
+     background:none;
+	 filter:none;
+	 border:none;
+	 box-shadow:none;
+	 background-color:#000000;
+	 opacity:0.8;
+	 color:#FFFFFF;	 	 	 
+}
+.navbar h2{
+	 text-align:left;
+	 	 	 
+}
+.sgn{
+	 float:right;
+	 padding-left:10px;
+	 	 	 
+}
+.side-bar a{
+      color:#000000;
+	  text-decoration:none;
+	  	 	 
+}
+.side-bar a:hover{
+      background-color:#00FF00; 	 
+}
+div.message{
+	border:1px solid #000000;
+	color:#000000;
+	font-weight:bold;
+	margin:1em 0;
+	padding:1em;
+	width:50%;
+}
+.error{
+	color:#000000;
+	border:1px solid #000000;
+	margin:1em 0;
+	padding:1em;
+	width:50%;
+}
+.error > ul{
+	padding-left:2em;
+}
+.admn a:hover{
+      background-color:#000000;
+	  color:#FFFFFF; 	 
+}	
+.admn a{
+	  color:#000000;
+} 
+.login {
+      float:none;
+} 	
+
