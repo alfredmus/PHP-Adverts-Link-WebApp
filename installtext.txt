@@ -1,0 +1,6 @@
+1.upload PHP-Adverts-Link-WebApp folder to web server **do not change any folder names
+2.create mysql database in phpmyadmin name it contentmanager
+3.import contentmanager.sql
+4.public url--->localhost/content manager site/public.php
+5.admins url---->localhost/content manager site/login.php
+6.find passwords in db admins table for admins
